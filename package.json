@@ -1,6 +1,6 @@
 {
   "name": "npm-test-second",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Test npm packages",
   "main": "index.js",
   "scripts": {
