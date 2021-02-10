@@ -1,0 +1,15 @@
+{
+  "name": "npm-test-second",
+  "version": "1.0.0",
+  "description": "Test npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZdenekJ/npm-test-second.git"
+  },
+  "author": "ZdenekJ",
+  "license": "MIT"
+}
